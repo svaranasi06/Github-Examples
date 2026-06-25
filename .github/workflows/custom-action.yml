@@ -3,7 +3,7 @@ on: [push]
 jobs:
   my-job:
     runs-on: ubuntu-latest
-    name: A job to say hello
+    name: A job to say hello harsha
     steps:
       - name: Hello world action step
         id: hello
